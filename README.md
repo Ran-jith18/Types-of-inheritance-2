@@ -1,0 +1,1 @@
+# Types-of-inheritance-2
